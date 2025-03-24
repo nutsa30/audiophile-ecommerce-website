@@ -1,0 +1,43 @@
+
+
+.nav{
+    background-color: #141414;
+   
+    
+ 
+}
+
+.navbar{
+    background-color:#141414;
+    color: var(--color-text-2);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #4C4C4C;
+    padding-bottom: 36px;
+    padding-top: 25px;
+
+
+}
+
+.navigations{
+    display: flex;
+    margin: 0px;
+    align-items: center;
+    gap: 197px;
+   
+}
+
+.Link{
+    display: flex;
+    gap: 15px;
+    font-weight: bold;
+    line-height: 25px;
+    letter-spacing: 2px;
+    font-size: 13px;
+    
+}
+
+
+
+

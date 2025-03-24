@@ -1,0 +1,46 @@
+
+
+
+.heading {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top:160px ;
+   
+  }
+
+  
+.alsoItems{
+   max-width: 350px;
+   text-align: center; 
+   display: flex;
+   gap: 30px;
+
+
+}
+
+
+.alsoImg{
+    width: 350px;
+    height: 318px;
+    margin-top: 64px;
+
+}
+
+.alsoName{
+    
+    height: 33px;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 1.71px;
+    margin-top: 40px;
+  
+    
+
+}
+
+
+.button{
+    margin-top: 32px;
+   
+}

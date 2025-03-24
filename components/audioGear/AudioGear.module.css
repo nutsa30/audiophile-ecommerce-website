@@ -1,0 +1,40 @@
+.gear{
+    display: flex;
+    align-items: center;
+    gap: 125px;
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+
+.gearInfo{
+    width:445px ;
+}
+
+.gearInfo h1{
+    margin-bottom: 32px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: "Manrope", serif;
+    line-height: 44px;
+    letter-spacing: 1.4px;
+
+    
+}
+
+.span{
+    color:var(--color-primary) ;
+}
+
+.p{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+
+}
+
+.gearImage{
+    width: 540px;
+    height: 588px;
+    border-radius: 10px;
+    
+}

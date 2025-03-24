@@ -1,0 +1,56 @@
+
+.mainHero{
+    background-color: #141414;
+   
+    
+}
+
+.hero{
+    display: flex;
+    background-color: 141414;
+    align-items: center;
+    height: 640px;
+    overflow: hidden;
+    gap: 54px;
+}
+
+.newProduct{
+    width: 398px;
+    height: 346px;
+    
+}
+
+.newProduct h5{
+   font-weight: 400;
+   font-size: 14px;
+   letter-spacing: 10px;
+   color: rgba(var(--color-text-2-rgb),0.49);
+   margin-bottom: 24px;
+}
+
+.newProduct h2{
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 58px;
+    letter-spacing: 2px;
+    color:var(--color-text-2);
+    margin-bottom: 24px;
+}
+
+.newProduct p{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color:rgba(var(--color-text-2-rgb), 0.75);
+    margin-bottom: 40px;
+    width: 349px;
+}
+
+
+
+.heroImg{
+    width: 708px;
+    margin-bottom: 100px;
+   
+    
+}

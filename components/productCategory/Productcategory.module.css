@@ -1,0 +1,27 @@
+.main{
+    background-color:#141414;
+}
+
+.category{
+    display: flex;
+    background-color:#141414;
+    width: 1440px;
+    height: 240px;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-text-2);
+
+}
+
+.p{
+    width: 215px;
+    height: 44px;
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    
+
+
+}
+

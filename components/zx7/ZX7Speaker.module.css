@@ -1,0 +1,34 @@
+.container{
+    position: relative;
+    margin-top: 48px;
+    
+}
+
+.containerChild{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 101px;
+    width: 204px;
+   height: 118px; 
+   margin-left: 95px;
+  
+
+}
+
+.containerChild h3{
+    color: var(--color-text-1);
+    font-weight: bold;
+    font-size: 28px;
+    letter-spacing: 2px;
+  
+}
+
+.containerChild button{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 32px;
+   margin-left: 1px;
+
+}
